@@ -1,6 +1,6 @@
 # <p align="center">Olá! Sejam bem-vindos ao meu GitHub!</p>
 
-<p align="center">
+<p align="left">
   <!-- Ícones das tecnologias -->
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Redes sociais -->
   <a href="https://instagram.com/joaopedrobonugli/ target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
